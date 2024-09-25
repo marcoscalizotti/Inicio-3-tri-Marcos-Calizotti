@@ -6,3 +6,7 @@ h1 {text-align: center;
  width: 100%
 
 }
+
+#ima3 {border-color: blueviolet;
+    border-style: double;
+    border-width: 37px;}
