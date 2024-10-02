@@ -35,3 +35,5 @@ h1 {text-align: center;
     border-style: dashed;
     border-width: 20px;
 }
+
+body {background-color: black;}
