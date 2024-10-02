@@ -7,11 +7,11 @@ h1 {text-align: center;
 
 }
 
-#ima3 {border-color: blueviolet;
+#ima3 {border-color: rgb(226, 43, 43);
     border-style: double;
     border-width: 28px;}
 
-    h1 {border-color: blueviolet;
+    h1 {border-color: rgb(255, 0, 0);
     border-style: dashed;
     border-width: 20px;
 }
